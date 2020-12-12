@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="slackpm",  # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Arnab Mukherjee",
     author_email="mukherjeearnab.arc@gmail.com",
     description="This is a simple script to send push message to Slack channels using Webhooks URL with Slack Apps.",
